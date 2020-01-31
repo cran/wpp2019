@@ -34,7 +34,7 @@ data(tfrprojLow)
   The datasets contain one record per country or region. It contains the following variables:
   \describe{
     \item{\code{country_code}}{Numerical Location Code (3-digit codes following ISO 3166-1 numeric standard) - see \url{http://en.wikipedia.org/wiki/ISO_3166-1_numeric}.}
-    \item{\code{name}}{Name of country or region (following ISO 3166 official short names in English - see \url{https://www.iso.org/obp/ui/#search/code/} and United Nations Multilingual Terminology Database - see \url{http://unterm.un.org}).}
+    \item{\code{name}}{Name of country or region (following ISO 3166 official short names in English - see \url{https://www.iso.org/obp/ui/#search/code/} and United Nations Multilingual Terminology Database - see \url{https://unterm.un.org/unterm}).}
     \item{\code{1950-1955}, \code{1955-1960}, \dots}{TFR in various five-year time intervals (i.e., from 1 July in year t to 1 July in year t+5 such as the period 1950-1955 refers to the period 1950.5-1955.5 and the mid of the period is 1953.0). The \code{tfrproj*} datasets start at \code{2020-2025}. The \code{tfr_supplemental} datasets start at \code{1740-1745}. Missing data have \code{NA} values.}
   }
 }

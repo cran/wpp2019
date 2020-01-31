@@ -1,7 +1,7 @@
-7aaf396d6bde91c33a9b598d48d7ec0a *ChangeLog
-ab258c0e95b684194f33ecb94ad01534 *DESCRIPTION
+084686624da55517d790ee352296eccb *ChangeLog
+ce8414927af018888ef308171e7c0a9f *DESCRIPTION
 53af23524386343bcfb1de356dc82439 *LICENSE
-0ac5e0fc498026408e36e4f4ce2fd5b0 *NAMESPACE
+95edd65f3b9be0c1b45da266c3be2302 *NAMESPACE
 e7f558018de6dafcac2e0a2bb3bf85b7 *data/UNlocations.R
 9b64a7ce2c5c38c71999ac9fb21ab0c2 *data/UNlocations.txt
 e9b10d20704913bd86c20f5f5d5dcd39 *data/datalist
@@ -99,8 +99,8 @@ a71e9a4106428442a117938862eca3b1 *data/tfrprojMed.txt
 68359184eca2834ac162bdbc7f07bca6 *man/PercentASFR.Rd
 5c8401115210802373bf7fb3bc7ebe04 *man/PopByAge.Rd
 b49252b1c802d5f2bbe6f11cbdc35d4b *man/SexRatioAtBirth.Rd
-7f798f4387d68fbdcbe6062a9708842c *man/UNlocations.Rd
-7e60ed0cba72b24d1ab2fa36b53be88d *man/e0.Rd
+d50a4e06d0df5435377d3e8f25ab8ef7 *man/UNlocations.Rd
+125317494b940bf5a3fd806745742170 *man/e0.Rd
 cc760b444d867fb1576518092e1f9105 *man/migration.Rd
-41aa59e43d1d87f6f940d1942a07b1b4 *man/tfr.Rd
-04c699f1e3a6b5bc42314244c7d68cbe *man/wpp2019-package.Rd
+09e08c47dcadabe9b73c471b165d2d3c *man/tfr.Rd
+456fd7664ea11f867c8c187e57b86534 *man/wpp2019-package.Rd
